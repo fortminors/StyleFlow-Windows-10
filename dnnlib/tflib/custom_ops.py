@@ -26,7 +26,7 @@ verbose = True # Print status messages to stdout.
 
 compiler_bindir_search_path = [
     #'C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.10.25017/bin/HostX64/x64',
-    C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64,
+    'C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64',
 ]
 
 #----------------------------------------------------------------------------
